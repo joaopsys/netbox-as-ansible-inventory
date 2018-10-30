@@ -1,6 +1,8 @@
 netbox:
     main:
-        api_url: 'http://localhost/api/dcim/devices/'
+        api_url: 'http://localhost/api/'
+        #virtualization: true if you need support for virtual machines
+        #tag_hack: true if you want it to group by tags
         #api_token: ''
 
     # How servers will be grouped.
