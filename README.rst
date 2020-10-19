@@ -1,3 +1,5 @@
+Deprecated by https://docs.ansible.com/ansible/latest/collections/netbox/netbox/nb_inventory_inventory.html
+
 Netbox dynamic inventory script
 ===============================
 
